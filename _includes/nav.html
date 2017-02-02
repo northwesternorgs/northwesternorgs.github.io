@@ -3,10 +3,9 @@
 		<ul>
 			{% assign current = page.url | downcase | split: '/' %}
 			<li {% if current[1] == 'index.html' %}class='current'{% endif %}><a href="{{ site.baseurl }}/index.html">Home</a></li>
-	
+
 
 			<li {% if current[1] == 'about.html' %}class='current'{% endif %}><a href="{{ site.baseurl }}/about.html">About</a></li>
-			<li {% if current[1] == 'Resources.html' %}class='current'{% endif %}><a href="{{ site.baseurl }}/Resources.html">Resources</a></li>
 			<li {% if current[1] == 'Members.html' %}class='current'{% endif %}><a href="{{ site.baseurl }}/Members.html">Members</a></li>
 			<li {% if current[1] == 'Testimonials.html' %}class='current'{% endif %}><a href="{{ site.baseurl }}/Testimonials.html">Testimonials</a></li>
 			<li {% if current[1] == 'Photos.html' %}class='current'{% endif %}><a href="{{ site.baseurl }}/Photos.html">Photos</a></li>
