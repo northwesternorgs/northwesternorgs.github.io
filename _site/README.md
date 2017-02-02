@@ -1,1 +1,1 @@
-# northwesternorgs.github.io
+Homepage of the Northwestern Multicultural Dialogue Group
