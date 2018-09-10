@@ -1,1 +1,1 @@
-Homepage of the Northwestern Multicultural Dialogue Group
+Homepage of the Northwestern Toastmasters Club
